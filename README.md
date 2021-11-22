@@ -25,14 +25,6 @@ Welcome to my GitHub!
     <img src="https://svgur.com/i/YLq.svg"/>
 </p>
 
-
-## GitHub Stats
-
-
-<a href="https://github.com/elisoncrum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elisoncrum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Elison Crums Stats" />
-</a>
-
 ### Where to find me
 <p>
 <a href="https://github.com/elisoncrum" target="_blank">
