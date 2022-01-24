@@ -1,5 +1,6 @@
 # Developer, Mountaineer, Marine
-Welcome to my GitHub!
+
+## Welcome to my GitHub!
 
 ### Things I Like
 <p>
