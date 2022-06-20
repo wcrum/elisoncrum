@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/elisoncrum?template=classic&lines=1&notable=1&activity=1&achievements=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Etc%2FGMT%2B8&config.display=large)
+![Metrics](/github-metrics.svg)
