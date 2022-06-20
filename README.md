@@ -26,4 +26,5 @@
 <div align="center">
   <h2>👎 Stuff I Dont Like 👎</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/>
+<img src="https://icongr.am/devicon/apple-original.svg?size=50&color=ffffff"/>
 </div>
