@@ -24,6 +24,6 @@
 </div>
 
 <div align="center">
-  <h2>👎 Stuff I Dont Like 👎</h2>
+  <h2>Stuff I Dont Like</h2>
 <img src="https://icongr.am/devicon/apple-original.svg?size=50&color=ffffff"/>
 </div>
